@@ -8,13 +8,18 @@ Use timer2 and interrupt to make a flashing light, flash for 1 second and stop f
 
 ## System Development
 Environment：MPLAB IDE v5(XC8 compiler)
+
 Language：C
 
 ## Hardware
 Dot Matrix
+
 MAX7219
+
 Capacitance
+
 Resistance
+
 FSR-400
 
 ## Technology
